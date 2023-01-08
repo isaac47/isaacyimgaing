@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/isaac47/isaacyimgaing/blob/main/1623313594131.jfif)
 <h1 align="center">Hi 👋, I'm Isaac yimgaing</h1>
 <h3 align="center">Passionate about Data and its applications, I help business teams in the construction of business use cases, allowing to take advantage of data (massive or not) through the realization of decisional analysis modeling via artificial intelligence algorithms, the deployment of models in production, while emphasizing the explicability and transparency of models.</h3>
 
